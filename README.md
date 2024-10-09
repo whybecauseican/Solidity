@@ -1,6 +1,6 @@
 # NewToken Smart Contract
 
-This project is a simple **NewToken** smart contract built using Solidity. It allows users to mint and burn tokens, providing a basic structure for token management on the Ethereum blockchain. Each token has properties such as name, symbol, and total supply, with functionalities for managing user balances.
+This project is a straightforward **NewToken** smart contract developed in Solidity. It enables users to mint and burn tokens, offering a foundational framework for token management on the Ethereum blockchain. The token includes attributes like name, symbol, and total supply, along with features to manage user balances.
 
 ## Features
 - Mint new tokens to a specified address.
