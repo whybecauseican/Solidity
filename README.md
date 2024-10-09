@@ -58,7 +58,7 @@ This project is a simple **NewToken** smart contract built using Solidity. It al
 
 ## Contributors
 
-- **Gabriel P. Abiog** - Developer  
+- **John Rey Luis Aguillon** - Developer  
 
 ## License
 
