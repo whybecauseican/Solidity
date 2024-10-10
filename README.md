@@ -21,7 +21,7 @@ This project is a straightforward **NewToken** smart contract developed in Solid
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/newtoken.git
+    [git clone https://github.com/your-username/newtoken.git](https://github.com/whybecauseican/Solidity.git)
     ```
 
 2. Navigate to the project directory:
