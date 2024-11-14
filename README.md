@@ -1,6 +1,4 @@
-Here’s an enhanced version of your README file, using best practices from common README structures and aligned with the references provided.
 
----
 
 # MyToken Smart Contract
 
@@ -85,6 +83,3 @@ To deploy the `MyToken` contract:
 ## License
 This project is licensed under the MIT License.
 
----
-
-This version adds sections like **Table of Contents** for easier navigation, a **Usage** section for deployment instructions, and sample usage for the functions, making it more comprehensive and user-friendly.
